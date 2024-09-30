@@ -1,4 +1,4 @@
-# Regression
+# Regularized Linear Regression
 
 ## Overview
 This project demonstrates various types of regression techniques, including:
